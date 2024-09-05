@@ -20,7 +20,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone este repositório em sua máquina local utilizando o comando:
    ```bash
-   git clone https://github.com/seu-usuario/lista-de-tarefas.git
+   git clone https://github.com/LucasIniesta/lista-de-tarefas.git
 2. Abra o projeto em sua IDE de preferência.
 3. Não há dependências adicionais a serem instaladas, já que o projeto é baseado em tecnologias web puras (HTML, CSS e JavaScript).
 
